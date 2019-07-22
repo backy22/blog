@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Daily life in Toronto
 image: /img/home-jumbotron.jpg
 heading: Daily life in Toronto
 subheading: as a student and programmer
