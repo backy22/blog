@@ -3,7 +3,7 @@ templateKey: index-page
 title: Daily life in Toronto
 image: /img/home-jumbotron.jpg
 heading: Daily life in Toronto
-subheading: as a student and programmer
+subheading: '    as a student and programmer'
 mainpitch:
   title: Who I am
   description: >-
@@ -11,7 +11,7 @@ mainpitch:
     started this blog to keep a record in English and Japanese. 
 
 
-    2018年8月にトロントに住んでいます。
+    2018年8月からトロントに住んでいます。
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
