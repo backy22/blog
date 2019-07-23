@@ -6,7 +6,7 @@ description: |-
   I'm talking about the reason why I started this blog in this article. 　　　　　　　　
   ブログを始めようと思ったきっかけをお話します。
 featuredpost: true
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/dundas_square.jpg
 tags:
   - English
   - blog
