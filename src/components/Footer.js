@@ -56,6 +56,15 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
+              <div className="column is-4 social">
+                <a title="instagram" href="https://www.instagram.com/ayatsubakino/" target="_blank">
+                  <img
+                    src={instagram}
+                    alt="Instagram"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+              </div>
             </div>
           </div>
         </div>
