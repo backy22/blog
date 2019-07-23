@@ -3,7 +3,7 @@ templateKey: index-page
 title: Daily life in Toronto
 image: /img/home-jumbotron.jpg
 heading: Daily life in Toronto
-subheading: as a student and programmer
+subheading: トロントでの私の日常生活
 mainpitch:
   title: Who I am
   description: >-
