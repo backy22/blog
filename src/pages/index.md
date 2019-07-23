@@ -8,7 +8,8 @@ mainpitch:
   title: Who I am
   description: >-
     I moved to Toronto in August 2018. I'm studying web design at college. I
-    started this blog to keep a record in English and Japanese.　　　　　　　　　
+    started this blog to keep a record in English and Japanese. 　　　　　　　
+
 
     2018年8月からトロントに住んでいます。
 description: >-
