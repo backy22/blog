@@ -27,8 +27,6 @@ I have three reasons to start this blog.
 * 日々の生活の記録をつけるため
 * Gatsby と Netlify を使うため
 
-
-
 ## To improve my English
 
 It has already been one year since I moved to Toronto. Time flies! At the same time, I feel my English didn't improve enough.... I saw and heard a lot of Japanese who studied abroad for only one year speaking English fluently. Compared with them, my English is less that I expected.
@@ -45,7 +43,7 @@ Everyone has different experience and knowledge. A lot of blogs always help me m
 
 人それぞれいろんな経験や知識を持っていて、思えばここ何年かはいろんな人のブログが本当に役立ちました。私自身もブログが誰かに見てもらえていることでモチベーションあがりますし、私のブログが誰かのお役に立てればと思います。
 
-## 
+## To use Gatsby and Netlify
 
 Gatsby and Netlify are used to make this blog site. The process was very easy and it took less than half a day. I will explain how to use them in another article.
 
