@@ -10,9 +10,9 @@ I'm Aya, a Japanese female. I started this blog to study English and keep a reco
 
 ### Topics
 
-I will write about programming, English, experience, any thoughts and anything I want to talk in English. 
+I'm writing about programming, design, English/Japanese, experience, any thoughts and anything I want to talk in English. 
 
-ブログの内容は、トロントでの日々の生活、プログラミングについて、英語について等なんでも。
+ブログの内容は、トロントでの日々の生活、プログラミングについて、デザイン、日本語/英語について等なんでも書いています。
 
 ### Links
 
