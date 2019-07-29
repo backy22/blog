@@ -14,6 +14,10 @@ tags:
   - life
   - career
 ---
+![](/img/screen-shot-2019-07-28-at-11.03.58-pm.png)
+
+
+
 # Her workout videos
 
 One of my favorite channels on YouTube is [blogilates](https://www.youtube.com/user/blogilates), where the YouTuber, Cassey, is teaching a lot kinds of exercises based on pilates. What I like about this channel are;
@@ -34,7 +38,7 @@ One of my favorite channels on YouTube is [blogilates](https://www.youtube.com/u
 
 \- 各部位にフォーカスしたビデオなので、どこを鍛えたいかで動画を選べます。そして本当に効くんです。次の日は筋トレした箇所がちゃんと筋肉痛になります。
 
-# Her speech video 
+# Her speech video
 
 In her channel, I found her great talk titled "[5 things I wish I could tell my 22-year old self | Commencement Speech to the Class of 2018](https://www.youtube.com/watch?v=UClTz7aEIy0&t=563s)" 
 
@@ -43,13 +47,9 @@ As somebody commented, this is as great as TED talks!! She knows how to live.
 There are 5 things she told to the graduates in her speech.
 
 1. Love your parents but know they're not always right.
-
 2. Take responsibility for your own destiny.
-
 3. Do more things that make you smile and do less things that don't.
-
 4. Give give give and you shall receive.
-
 5. If you are willing to bet on anything, bet on yourself.
 
 She is really cool that she found these facts in her 20s!! Please check it out.
@@ -61,13 +61,9 @@ She is really cool that she found these facts in her 20s!! Please check it out.
 これがスピーチの中で説明している"5 things"です。
 
 1. 両親を愛しなさい、でも彼らがいつも正解とは限らない
-
 2. 自分の運命に責任をもちなさい
-
 3. あなたを幸せにすることをもっとして、幸せにしないことはなるべくしないようにしなさい
-
 4. 与えよ、与えよ、与えよ、そうすればあなたも受け取れるでしょう
-
 5. なにかに賭けるなら、自分自身に賭けなさい
 
 20代でこんな事実を見出すなんて本当にかっこいいですね。是非チェックしてみてください。
