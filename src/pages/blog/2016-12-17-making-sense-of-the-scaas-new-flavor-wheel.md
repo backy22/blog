@@ -13,7 +13,7 @@ tags:
   - Gatsby
   - Netlify
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/dundas_square.jpg)
 
 I have three reasons to start this blog.
 
