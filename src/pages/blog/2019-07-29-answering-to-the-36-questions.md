@@ -116,7 +116,7 @@ I really appreciate technology. Thanks to the Internet, I have jobs, information
 10. If you could change anything about the way you were raised, what would it be?
 自分の育てられ方を変えれるとしたら、なんですか。
 ```
-I was overprotected because I'm only child. When I was around 20 years old, I didn't know anything in the world. So, if I could change the way I was raised, I wanted to have more chances to make a decision by myself. 
+I was overprotected because I'm only child. When I was around 20 years old, I didn't know anything about the world. So, if I could change the way I was raised, I wanted to have more chances to make a decision by myself. 
 
 私は一人っ子なので過保護に育てられました。私が20歳くらいの時、世の中のことを全然知りませんでした。もし育てられ方を変えられるとすれば、もっと自分で決断をするチャンスがほしかったです。
 
