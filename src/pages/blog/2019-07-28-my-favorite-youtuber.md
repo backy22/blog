@@ -6,7 +6,7 @@ description: >-
   I work out every day watching the blogilates channel.
   私が毎日筋トレに使っているblogilatesチャンネルについて！
 featuredpost: true
-featuredimage: /img/screen-shot-2019-07-28-at-11.12.30-pm.png
+featuredimage: /img/youtuber.jpg
 tags:
   - YouTube
   - lessons
@@ -14,7 +14,7 @@ tags:
   - life
   - career
 ---
-![](/img/screen-shot-2019-07-28-at-11.12.30-pm.png)
+![](/img/youtuber.jpg)
 
 # Her workout videos
 
