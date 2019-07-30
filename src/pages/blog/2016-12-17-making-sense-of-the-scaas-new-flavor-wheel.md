@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: Why I started blog
 date: 2019-07-23T14:04:10.000Z
-description: |-
-  I'm talking about the reason why I started this blog in this article. 　　　　　　　　
+description: >-
+  I'm talking about the reason why I started this blog in this article.
   ブログを始めようと思ったきっかけをお話します。
 featuredpost: true
 featuredimage: /img/dundas_square.jpg
