@@ -14,7 +14,7 @@ tags:
   - life
   - career
 ---
-![](/img/youtuber.jpg)
+![YouTuber thumbnail](/img/youtuber.jpg)
 
 # Her workout videos
 
