@@ -13,7 +13,7 @@ tags:
   - love
   - relationship
 ---
-![](/img/36questions.jpg)
+![falling love image](/img/36questions.jpg)
 
 I'm often watching TED talks to study English. The speaker I watched today was Mandy Len Catron, the author of "How to Fall in Love with Anyone. " As she mentioned, this has been a hot topic in the world. (I didn't know that.) We can find YouTube videos where strangers are asking 36 questions each other and then they are talking how they felt honestly. 
 
