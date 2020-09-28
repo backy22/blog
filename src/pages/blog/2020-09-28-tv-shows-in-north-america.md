@@ -45,18 +45,45 @@ These are the TV shows I have watched in this 6 months.
 * The Boys(2019-)
 * I Am Not Okay with This(2020)
 * Skins(2007-2013)
+* Euphoria (2019-)
 
 On the other hand, these are the TV shows I have watched and remember when I was in Japan.
 
 * Downtown Rocket (下町ロケット) (2015)
-* 半沢直樹(2013)
-* 逃げるは恥だが役に立つ(2016)
-* リッチマンプアウーマン(2012)
-* オレンジデイズ(2004)
-* ドラゴン桜(2005)
+* Hanzawa Naoki (半沢直樹) (2013)
+* Running away is a shame, but useful (逃げるは恥だが役に立つ) (2016)
+* Rich man, poor woman(リッチマンプアウーマン)(2012)
+* Orange Days (オレンジデイズ)(2004)
+* Dragon Zakura (ドラゴン桜) (2005)
 * JIN(2011)
-* 私 結婚できないんじゃなくて、しないんです(2016)
-* ごくせん(2005)
-* 人にやさしく(2002)
+* I could get married, but I just don't (私 結婚できないんじゃなくて、しないんです)(2016)
+* Gokusen(ごくせん) (2005)
+* Be kind(人にやさしく)(2002)
 
 I have watched more TV shows in Japan, but I can't remember the name and it's hard to find English name.... So I have decided not to list all of them.
+
+日本のドラマもっと見てきたはずだけど、名前が思い出せないからあきらめます
+
+If I break TV shows in North America into some groups, I would say one is related to drugs, one is Sci-fi, another one is crime shows. 
+
+If I break those in Japan into some groups, I would say one is about employee life, one is about specialists such as doctors and lawyers, another one is romantic shows. 
+
+アメリカのドラマをグループ分けするなら、1. ドラッグに関するもの 2. サイファイ 3. 犯罪ドラマ
+
+日本のドラマは、1. 会社員生活 2. 医者や弁護士といったスペシャリストに関するもの 3. 恋愛ドラマ
+
+I haven't seen Japanse TV shows whose main topic is drug or gun. Especially I feel teenage shows in North America are always related to drugs, alcohol, party and hookups. Although teenage shows in Japan have also romantic and fights, they are finally related to bonds with family, teacher and friends, or study or sports. 
+
+日本のドラマでメイントピックがドラッグや銃のものは見たことない。特にアメリカの青春ドラマは常にドラッグやお酒やパーティ、セックスに結びついているように思う。日本の青春ドラマも恋愛や喧嘩はあるけど、最終的には家族、先生、友達との絆や勉強やスポーツがメイントピックになってるように思う。
+
+I feel there are a lot of TV shows whose main topic is romantic/marriage and office life in Japan. I didn't think it was strange when I was in Japan because these are common topics with friends, colleagues, and family.  I feel people in Canada talk less about these topics. Of course, they talk about their job, but not much about a complaint about their boss. 
+
+日本では恋愛/結婚、会社生活がメイントピックになってるTVドラマが多くあるように思います。日本にいるときは、それらは友達、同僚、家族とのよくある会話なのでそれがおかしいとは思いませんでした。カナダ人も自分の仕事については話しますが、上司の愚痴はあまり聞いたことがありません。
+
+Also, almost all my Japanse friends are married and my family is very worried I'm still single. But here in Canada, marriage is like one of the life options. Being a single, common law, getting a divorce are also generally accepted options. Marriage and career are the most important elements of life in Japan.
+
+また、日本人の友達はほぼ結婚していて、私の家族は私がまだ独身であることを非常に心配していますが、カナダでは結婚は人生の選択の一つです。独身であることも事実婚も離婚も一般的に認められた選択肢です。日本では結婚とキャリアが人生で最も重要な要素なのです。
+
+Lastly, people here talk about TV shows a lot. I think more people have time to watch TV shows and are into TV shows. So watching TV shows is important to keep a conversation. 
+
+最後に、こっちの人はTVドラマについてよく話します。もっと多くの人がTVドラマが好きで、TVドラマを見る時間があります。TVドラマを見ることは会話を進めるのに重要です。
