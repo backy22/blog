@@ -9,7 +9,7 @@ description: >-
   this 6 months about TV shows. That is completely my personal opinion.
   コロナウィルスのパンデミックが始まって以来、私はカナダ人の彼と同居しています。多くの人がしているように、私達もNetflix, CRAVE, Amazon
   Primeで毎日TVドラマを見ています。私がこの6ヶ月でTVドラマに関して感じたことを書きたいと思います。あくまでもこれは個人的な意見です。
-featuredpost: false
+featuredpost: true
 featuredimage: /img/thibault-penin-awol7qqsffm-unsplash.jpg
 tags:
   - pandemic
