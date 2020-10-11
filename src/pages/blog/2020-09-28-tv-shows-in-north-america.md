@@ -10,7 +10,7 @@ description: >-
   コロナウィルスのパンデミックが始まって以来、私はカナダ人の彼と同居しています。多くの人がしているように、私達もNetflix, CRAVE, Amazon
   Primeで毎日TVドラマを見ています。私がこの6ヶ月でTVドラマに関して感じたことを書きたいと思います。あくまでもこれは個人的な意見です。
 featuredpost: true
-featuredimage: /img/thibault-penin-awol7qqsffm-unsplash.jpg
+featuredimage: /img/charles-deluvio-jtmwd4i4v1u-unsplash.jpg
 tags:
   - pandemic
 ---
