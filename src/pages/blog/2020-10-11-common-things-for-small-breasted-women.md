@@ -11,6 +11,8 @@ featuredimage: /img/dainis-graveris-ucglvv-1uvq-unsplash.jpg
 tags:
   - complex
 ---
+![](/img/dainis-graveris-ucglvv-1uvq-unsplash.jpg)
+
 These are the facts of small breast women.
 
 * When I was a teenager, my boyfriend and his friends made fun of me about my small breast.
