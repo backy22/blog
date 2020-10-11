@@ -14,6 +14,10 @@ featuredimage: /img/charles-deluvio-jtmwd4i4v1u-unsplash.jpg
 tags:
   - pandemic
 ---
+![](/img/charles-deluvio-jtmwd4i4v1u-unsplash.jpg)
+
+
+
 These are the TV shows I have watched in this 6 months.
 
 * Westworld(2016)
